@@ -14,3 +14,5 @@ Welcome to the Riddle Website project! This is a simple interactive web applicat
 - Add ability to get another random riddle.
 - Remember riddles that user has seen. Do **not** show old riddles to user again.
 - Once user gets riddle correct, grab another random riddle that they haven't answered.
+- Add ID system so users can see a previous riddle or find a random riddle
+- Difficulty rating?
