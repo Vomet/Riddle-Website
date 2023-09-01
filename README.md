@@ -8,3 +8,9 @@ Welcome to the Riddle Website project! This is a simple interactive web applicat
 - Provides feedback to users based on their answer.
 - Allows users to try solving new riddles.
 - Riddles are loaded dynamically from a JSON file.
+
+## Future Plans
+- Make "Correct" and "Incorrect" labels fade away after a few seconds have passed
+- Add ability to get another random riddle.
+- Remember riddles that user has seen. Do **not** show old riddles to user again.
+- Once user gets riddle correct, grab another random riddle that they haven't answered.
